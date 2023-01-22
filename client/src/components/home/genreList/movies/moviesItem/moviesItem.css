@@ -2,10 +2,10 @@
     max-width: 15%;
     margin: 3% 0 3% 4%;
     position:relative;
-    -webkit-box-shadow: 0px 0px 18px 9px rgba(0,0,0,0.75);
-    -moz-box-shadow: 0px 0px 18px 9px rgba(0,0,0,0.75);
-    box-shadow: 0px 0px 18px 9px rgba(0,0,0,0.75);
-    background-color: rgba(0,0,0,0.7);
+    -webkit-box-shadow: 0px 0px 18px 9px #460b6d;
+    -moz-box-shadow: 0px 0px 18px 9px #460b6d;
+    box-shadow: 0px 0px 18px 9px #460b6d;
+    background-color: #460b6d;
     border-radius: 0.8rem;
 }
 
@@ -29,7 +29,7 @@ div.card-film span{
     bottom:1%;
     right:0;
     top:0;
-    background: rgba(29, 29, 29, 0.8);
+    background: #460b6d;
     display:none;
     color: white;
 }

@@ -42,7 +42,7 @@
 }
 .profile .profilePage .logout button:hover{
     background: white;
-    color: black;
+    color:#460b6d;
     transition: 0.5s;
     transform: scale(1.1);
     cursor: pointer;

@@ -1,7 +1,7 @@
 .headerSection{
-    -webkit-box-shadow: 0px 11px 12px -1px rgba(0,0,0,0.75);
-    -moz-box-shadow: 0px 11px 12px -1px rgba(0,0,0,0.75);
-    box-shadow: 0px 11px 12px -1px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 0px 11px 12px -1px #160520;
+    -moz-box-shadow: 0px 11px 12px -1px #460b6d;
+    box-shadow: 0px 11px 12px -1px #460b6d;
     height: 105px;
     background-image: url("../../images/headerBg.jpg");
 }

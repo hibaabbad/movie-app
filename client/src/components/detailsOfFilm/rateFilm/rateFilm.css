@@ -20,13 +20,13 @@
 .ratePage ul li{
     display: inline-block;
     margin-right: 1%;
-    background: black;
+    background: #460b6d;
     color: white;
     padding: 3%;
 }
 .ratePage ul li:hover{
     background: white;
-    color: black;
+    color: #460b6d;
     cursor: pointer;
     transition: 0.5s;
 }

@@ -37,7 +37,7 @@ export const Header = () => {
             to={'/'}
             style={{marginTop: -5, marginLeft: 16}}
             className="text-decoration-none d-block text-white font-size-20">
-            Redis Movie App
+            Movie Time
           </Link>
         </div>
         {/* </Link> */}

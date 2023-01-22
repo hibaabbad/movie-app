@@ -16,7 +16,7 @@ export const FilmsList = ({name}) => {
 
   useEffect(() => {
     handleFilmsData();
-  }, []);
+  });
 
   return (
     <div className={'film-row'}>
