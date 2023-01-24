@@ -47,7 +47,7 @@ const swaggerDefinition = {
   basePath: '/',
 };
 
-// options for the swagger docs
+
 const options = {
   // import swaggerDefinitions
   swaggerDefinition,

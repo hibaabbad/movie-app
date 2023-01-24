@@ -3,7 +3,7 @@
   "stack": "container",
   "env": {
     "REDIS_ENDPOINT_URL": {
-      "description": "A Redis cloud endpoint URL.",
+      "description": "A Redis endpoint URL.",
       "required": true
     },
     "REDIS_PASSWORD": {

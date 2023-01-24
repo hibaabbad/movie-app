@@ -1,4 +1,4 @@
-// movies.js
+
 const {writeResponse} = require('../helpers/response');
 const {
   ACTORS: {actors},

@@ -969,7 +969,7 @@ exports.actors = [
         url: 'https://themoviedb.org/person/10696',
       },
     },
-    movieTitle: 'GoldenEye',
+    movieTitle: '',
     role: 'Xenia Onatopp',
   },
   {
