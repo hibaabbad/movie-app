@@ -1,3 +1,4 @@
+// export all the routers
 module.exports = {
   moviesRouter: require('./moviesRouter'),
   peopleRouter: require('./peopleRouter'),
