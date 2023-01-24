@@ -96,7 +96,7 @@ const getByDateRange = function (session, start, end) {
     .then((result) => manyMovies(result.next()));
 };
 
-// Get by date range
+
 const getByActor = function (session, id) {
   const query = [
     'MATCH (actor:Actor {tmdbId: $id})-[:ACTED_IN_MOVIE]->(movie:Movie)',
