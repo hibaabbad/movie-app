@@ -1,4 +1,4 @@
-// @ts-check
+
 const {getSession} = require('./dbUtils');
 const Genres = require('../models/actions/genres');
 const {
