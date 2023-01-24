@@ -5,4 +5,3 @@ exports.writeResponse = function writeResponse(res, response, status) {
 exports.writeError = function writeError(res, error, status) {
   res.status(error.status || status || 400).send(JSON.stringify(error));
 };
-edrftgyhu
