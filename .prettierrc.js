@@ -11,3 +11,4 @@ module.exports = {
   proseWrap: 'preserve',
   parser: 'typescript',
 };
+export
