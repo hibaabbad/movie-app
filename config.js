@@ -38,4 +38,4 @@ nconf
     api_path: '/api',
   });
 
-module.exports = nconf;
+
