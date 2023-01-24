@@ -23,9 +23,7 @@ exports.moviesWithGenres = [
   {movieTitle: 'Tom and Huck', genre: 'Children'},
   {movieTitle: 'Tom and Huck', genre: 'Adventure'},
   {movieTitle: 'Sudden Death', genre: 'Action'},
-  {movieTitle: 'GoldenEye', genre: 'Adventure'},
-  {movieTitle: 'GoldenEye', genre: 'Action'},
-  {movieTitle: 'GoldenEye', genre: 'Thriller'},
+  
   {movieTitle: 'American President, The', genre: 'Comedy'},
   {movieTitle: 'American President, The', genre: 'Romance'},
   {movieTitle: 'American President, The', genre: 'Drama'},

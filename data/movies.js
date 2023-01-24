@@ -268,34 +268,7 @@ exports.movies = [
       'and others hostage during the seventh game of the NHL Stanley Cup finals.',
     duration: 111,
   },
-  {
-    languages: ['English', ' Russian', ' Spanish'],
-    year: {low: 1995, high: 0},
-    imdbId: '0113189',
-    runtime: {low: 130, high: 0},
-    imdbRating: 7.2,
-    movieId: '10',
-    countries: ['UK', ' USA'],
-    imdbVotes: {low: 194676, high: 0},
-    title: 'GoldenEye',
-    url: 'https://themoviedb.org/movie/45325',
-    revenue: {low: 352194034, high: 0},
-    tmdbId: '710',
-    plot:
-      'James Bond teams up with the lone survivor of a destroyed Russian research center to stop ' +
-      'the hijacking of a nuclear space weapon by a fellow agent formerly believed to be dead.',
-    poster:
-      'https://www.themoviedb.org/t/p/original/dJHUmHIvwGSJPLAcGyCANRLyG9g.jpg',
-    released: '1995-11-17',
-    budget: {low: 58000000, high: 0},
-    id: '710',
-    poster_image:
-      'https://www.themoviedb.org/t/p/original/dJHUmHIvwGSJPLAcGyCANRLyG9g.jpg',
-    tagline:
-      'James Bond teams up with the lone survivor of a destroyed Russian research center to stop' +
-      ' the hijacking of a nuclear space weapon by a fellow agent formerly believed to be dead.',
-    duration: 130,
-  },
+ 
   {
     languages: ['English', ' French'],
     year: {low: 1995, high: 0},
