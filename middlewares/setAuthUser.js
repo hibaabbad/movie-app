@@ -26,4 +26,4 @@ module.exports = function setAuthUser(req, res, next) {
       .catch(next);
   }
 };
-export
+
